@@ -34,16 +34,16 @@ This repository contains a Python application that leverages advanced AI models 
 
 The Gradio interface will provide a user-friendly way to interact with the application. You can:
 
-* Generate images based on text prompts.
+* Generate images based on text prompts
 ![Screenshot 2024-09-17 at 7 00 46 p m](https://github.com/user-attachments/assets/f141bf4f-d16a-4d7e-8107-84956a982886)
 
-* Upload images for captioning, question answering, and editing.
+* Upload images for captioning and question answering
 ![Screenshot 2024-09-17 at 7 03 07 p m](https://github.com/user-attachments/assets/51075285-f4ce-499f-b0ee-22c44ace6e7d)
 
+* Editing images based on text prompts
 ![Screenshot 2024-09-17 at 6 59 32 p m](https://github.com/user-attachments/assets/66e09b2d-0dd6-4b96-b1da-8ee5ae66ab29)
 
-* Engage in conversations with images.
-  
+* Engage in conversations with images
 ![Screenshot 2024-09-17 at 7 03 27 p m](https://github.com/user-attachments/assets/ff001be3-fe14-48ec-b09d-25b6d32b7f14)
 
 
