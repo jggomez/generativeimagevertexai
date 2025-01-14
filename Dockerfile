@@ -1,6 +1,7 @@
 FROM python:3.10-slim as requirements-stage
 WORKDIR /tmp
 RUN pip install poetry
+RUN pip install poetry-plugin-export
 COPY poetry.lock pyproject.toml /tmp/
 RUN poetry export -f requirements.txt --output requirements.txt --without-hashes
 FROM python:3.10-slim
